@@ -1,2 +1,5 @@
 package: go-wechatpay
-import: []
+import:
+- package: github.com/godaner/go-util
+- package: github.com/godaner/go-route
+  version: 2.0.1
