@@ -3,3 +3,4 @@ import:
 - package: github.com/godaner/go-util
 - package: github.com/godaner/go-route
   version: 2.0.1
+- package: github.com/imzjy/wxpay
